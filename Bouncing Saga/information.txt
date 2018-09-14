@@ -1,0 +1,18 @@
+Both of these projects involved drawing things to the screen in real time and updating them. KeyBoardSpheres.java was a program that draws a bunch of spheres to the screen, and allows the environment gravity to flip by pushing W,A,S, or D. For that class, I was to write the responses to pressing the buttons, and also changing the acceleration directions after a button press.
+
+I wrote:
+	add()
+	divide()
+	flipX()
+	flipY()
+	gravUp()
+	gravDown()
+	gravRight()
+	gravLeft()
+	bounce()
+	keyPressed() (which controlled the actions to be called when a key was pressed)
+
+As for Bouncing.java, I had to write a class that made the balls bounce off of the walls by flipping their velocities, and also adding collision so they don't fly off the screen. In Bouncing.java, I wrote:
+	1) pretty much all of the run method, to handle the sphere physics
+	2) drawing the additional spheres to the screen
+	3) adding a "gravity vortex" around one of the balls, and updating the location, acceleration, and velocity of the two orbiting balls around the one constant ball.
