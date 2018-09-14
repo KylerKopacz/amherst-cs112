@@ -1,0 +1,12 @@
+So I believe for this project, I was asked to implement a data structure that implemented the OrderedCollection interface. This was the part of the class where we were learning about:
+	Interfaces:
+		What they are
+		How to use them
+	
+	User-Defined Classes:
+		How to write them
+	Generics:
+		What they were
+		Why is would be good to make classes that use them
+
+So I believe that I wrote all of the MyGenericDS. This was to get an idea of why using generics would be beneficial (being able to reuse code for different types of data). We were also asked to crack the code written by Pro Haxor (an imaginary hacker that made many appearances throughout the semester)
