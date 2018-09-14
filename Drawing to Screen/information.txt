@@ -1,0 +1,1 @@
+This assignment was the first that we were given for the semester. We had to choose something to draw (I chose a bullseye target thing) and we had to draw it in a grid on the screen. I wrote all of DrawToScreen.java
