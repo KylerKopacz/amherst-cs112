@@ -1,0 +1,1 @@
+This was the second project of the year. This project was simple, we had to write SubstitutionCypher.java that implemented a substitution cypher. I wrote all of that class. The other classes were provided to me, and all they did was take the text to a file and encrypt and decrypt it. Very straight forward.
