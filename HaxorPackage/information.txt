@@ -1,0 +1,3 @@
+This assignment was all about variable privacy and trying to access a variable that was from a super class. Naturally, it also worked in class hierarchies and how subclasses can access superclass variables. The whole idea of the project was to gain access to a function in C.java by getting the value of P.x from P.java. 
+
+I wrote the entire Password.java file, and was able to "crack the code" by gaining access to the C.java function that would have given me access to "Pro Haxor's" file system.  
