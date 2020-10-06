@@ -1,4 +1,3 @@
-
 import javax.swing.JPanel;
 import javax.swing.JFrame;
 import java.awt.Color;
@@ -6,22 +5,29 @@ import java.awt.Graphics;
 import java.awt.Dimension;
 
 public class Bouncing extends JPanel{
-    public static final int WIDTH = 1024;
-    public static final int HEIGHT = 768;
+    public static final int WIDTH = 1280;
+    public static final int HEIGHT = 720;
     public static final int FPS = 60;
     public static final int RADIUS = 50;
+
+    // positions for each of the spheres
     double positionX;
     double positionY;
+    // sphere 2
     double positionA;
     double positionB;
+
+    // The third sphere is the vortex, which brings in the other spheres
     double vortexX;
     double vortexY;
 
-    //Note: The following are not used yet, you should use them in writing your code.
+    // These are the velocities for each of the spheres
     double velocityX;
     double velocityY;
+    // sphere 2 velocities
     double velocityA;
     double velocityB;
+    // velocity of the vortex
     double vortexVeloX;
     double vortexVeloY;
 
